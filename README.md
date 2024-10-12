@@ -1,9 +1,8 @@
 # VideoScript
-#小于2秒的视频将会被删除。
-#大于等于2秒且小于6秒的视频将保留前2秒。
-#大于等于6秒且小于10秒的视频将保留前6秒。
-#大于等于10秒的视频将保留前10秒。
-#
-#
-#
-#
+#安装ffmpeg
+#例如，在 macOS 上使用 Homebrew 安装 FFmpeg：
+$brew install ffmpeg
+#在 Linux 上安装 FFmpeg：
+$sudo apt install ffmpeg
+
+
